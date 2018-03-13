@@ -1,4 +1,4 @@
-package com.core;
+package com.java.core.string;
 
 public class DigitActions {
 
